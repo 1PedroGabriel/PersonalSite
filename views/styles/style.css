@@ -1,0 +1,10 @@
+.linked-list-items{
+     
+    display: flex;
+    flex-direction: column;
+}
+
+.nav-wrapper {
+
+    background-color: black;
+}
